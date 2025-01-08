@@ -9,6 +9,7 @@ export default function Home() {
           <Link href="/navigation-menu-1">Navigation menu 1</Link>
           <Link href="/scroll-trigger-1">Scroll Trigger 1</Link>
           <Link href="/text-effects">Text Effects</Link>
+          <Link href="/floating-gallery">Floating Gallery</Link>
         </div>
       </div>
     </div>
