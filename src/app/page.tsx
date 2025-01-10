@@ -10,6 +10,7 @@ export default function Home() {
           <Link href="/scroll-trigger-1">Scroll Trigger 1</Link>
           <Link href="/text-effects">Text Effects</Link>
           <Link href="/floating-gallery">Floating Gallery</Link>
+          <Link href="/landing-page-reveal">Landing Page Reveal</Link>
         </div>
       </div>
     </div>
