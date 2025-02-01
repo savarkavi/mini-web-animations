@@ -11,6 +11,7 @@ export default function Home() {
           <Link href="/text-effects">Text Effects</Link>
           <Link href="/floating-gallery">Floating Gallery</Link>
           <Link href="/landing-page-reveal">Landing Page Reveal</Link>
+          <Link href="/stacking-cards">Stacking Cards</Link>
         </div>
       </div>
     </div>
