@@ -7,7 +7,7 @@ const delius = Delius_Unicase({
 
 const Header = () => {
   return (
-    <div className="w-full flex items-center justify-between p-8 fixed top-0 text-black">
+    <div className="w-full flex items-center justify-between p-8 fixed top-0 text-black z-[999]">
       <button className="bg-white px-4 py-2 rounded-full text-lg">
         Let&apos;s Work
       </button>
